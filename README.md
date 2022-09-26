@@ -1,17 +1,15 @@
-### Olá, bem vindo ao meu perfil  👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wenderson+Bendinelle;I'm+27+years+old;I+from+Betim,+MG;I+study+Analysis+and+systems+development;at+College+Pitagoras;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+##
 
 - 📝 Cursando ADS 
 - 🌱 Estudando Java Script
 - 🔋  Full Stack
 - 📫 Contate-me no email: bendinellework@gmail.com
 
-  <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=bendinelle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendinelle&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ ## 
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Bend-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
