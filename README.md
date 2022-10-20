@@ -5,8 +5,8 @@
 ##
 
 - 📝 Cursando ADS 
-- 🌱 Estudando Java Script
-- 🔋  Full Stack
+- 🌱 Estudando Python
+- 🔋  Back End
 - 📫 Contate-me no email: bendinellework@gmail.com
 
  ## 
