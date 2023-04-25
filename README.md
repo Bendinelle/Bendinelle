@@ -6,7 +6,7 @@
 
 - 📝 Cursando ADS 
 - 📖 Aluno DEV Labenu
-- 🌱 Estudando Java Script
+- 🌱 Estudando JS | HTML | CSS
 - 🔋  Full Stack
 - 📫 Contate-me no email: bendinellework@gmail.com
 
@@ -19,6 +19,5 @@
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- </div>
+  </div>
 
