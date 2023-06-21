@@ -6,7 +6,7 @@
 
 - 📝 Cursando ADS 
 - 📖 Aluno DEV Labenu
-- 🌱 Estudando JS | HTML | CSS
+- 🌱 Estudando JS | HTML | CSS | REACT
 - 🔋  Full Stack
 - 📫 Contate-me no email: bendinellework@gmail.com
 
